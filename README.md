@@ -11,12 +11,12 @@ This program was created with the intention of learning more about data analysis
 
 # Data Analysis Results
 
-Q1: What are the 5 most poulated countries?
-A1: China, India, United States, Indonesia, Pakistan
-Q2: What does the global population look like over time?
-A1: In 1970 the poulation was 3,694,136,661 and it rose to 7,973,413,042 in 2022. (The actual results in the program include updated results for every 10 years or so)
-Q3:What are the population and other statistics of x country like? (eg: Afghanistan)
-A3: It is ranked 36 for population with a population of 41,128,771 in 2022. It has a growth rate of 1.0257%. (More information is included in the actual program.)
+* Q1: What are the 5 most poulated countries?
+* A1: China, India, United States, Indonesia, Pakistan
+* Q2: What does the global population look like over time?
+* A1: In 1970 the poulation was 3,694,136,661 and it rose to 7,973,413,042 in 2022. (The actual results in the program include updated results for every 10 years or so)
+* Q3:What are the population and other statistics of x country like? (eg: Afghanistan)
+* A3: It is ranked 36 for population with a population of 41,128,771 in 2022. It has a growth rate of 1.0257%. (More information is included in the actual program.)
 
 # Development Environment
 
