@@ -2,7 +2,7 @@
 
 This program has 3 functions. It returns the top 5 most populous countries, returns the total global population over the years, and it returns the information on a user selcted country.
 
-This program analyzes a database on world population over time. The *[database](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset) is found on Kaggle.com.
+This program analyzes a database on world population over time. The [database](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset) is found on Kaggle.com.
 
 This program was created with the intention of learning more about data analysis and working with Python Pandas. 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
